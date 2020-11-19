@@ -1,5 +1,3 @@
-#Made by Suraj S , XI A
-
 from tkinter import * #Importing tkinter which is used for making GUI programs
 
 window = Tk()
